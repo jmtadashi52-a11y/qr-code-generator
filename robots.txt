@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jmtadashi52-a11y.github.io/qr-code-generator/sitemap.xml
